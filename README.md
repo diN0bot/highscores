@@ -1,3 +1,6 @@
+Something like [twisted highschores](http://twistedmatrix.com/highscores )
+
+    bzr branch http://twistedmatrix.com/highscores
 
 ## Points
 
