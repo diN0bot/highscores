@@ -1,4 +1,4 @@
-Something like [twisted highschores](http://twistedmatrix.com/highscores )
+Something like [twisted highscores](http://twistedmatrix.com/highscores )
 
     bzr branch http://twistedmatrix.com/highscores
 
